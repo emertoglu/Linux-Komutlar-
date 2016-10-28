@@ -10,11 +10,11 @@ host = sys.argv[1]
 argument = '-n -T4 -sV -p '
 print("Taranacak host : %s " % host)
 print ("\n")
-print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
+print("////////////////////////////////////////////")
 
 print("Port\tName\tState\tReason")
 
-print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
+print("////////////////////////////////////////////")
 
 try:
 
